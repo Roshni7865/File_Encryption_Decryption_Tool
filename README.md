@@ -48,3 +48,18 @@ Files included in the repository:
    python file.py
    ```
 
+## Usage
+
+1. Launch the application.
+
+2. Select File – Browse and select the file you want to encrypt or decrypt.
+
+3. Password – Enter a password for encryption or the password used during encryption for decryption.
+
+4. Confirm Password – Enter the password again for verification (only for encryption).
+
+5. Click Encrypt File or Decrypt File.
+
+6. Check the status box for messages and notifications.
+
+⚠️ Important: Remember your password. It cannot be recovered if lost!
