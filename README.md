@@ -34,3 +34,17 @@ Files included in the repository:
    ```bash
    git clone https://github.com/Roshni7865/File_Encryption_Decryption_Tool.git
    cd File_Encryption_Decryption_Tool
+```
+
+2. Install the required Python packages:
+
+   ```bash
+   pip install pycryptodome
+   ```
+
+3. Run the application:
+
+   ```bash
+   python file.py
+   ```
+
